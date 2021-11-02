@@ -77,6 +77,7 @@ body {
 
 .dropdown:hover .dropdown-content {
     display: block;
+    color: black;
 }
 
 table, th, td {
