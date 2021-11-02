@@ -14,7 +14,6 @@ body {
     text-align: center;
     color: #544242;
     font-family: 'Courier New', Courier, monospace;
-    position: relative;
 }
 
 .navbar {
@@ -23,7 +22,6 @@ body {
     border: 5px solid white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    color: white;
 }
 
 .navbar a:link, .navbar a:visited {
@@ -40,7 +38,7 @@ body {
     overflow: hidden;
 }
 
-.dropdown .dropbtn {
+.dropdown, .dropbtn {
     font-size: 20px;  
     border: none;
     outline: none;
