@@ -14,6 +14,7 @@ body {
     text-align: center;
     color: #544242;
     font-family: 'Courier New', Courier, monospace;
+    position: relative;
 }
 
 .navbar {
