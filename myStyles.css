@@ -57,8 +57,8 @@ body {
 }
 
 .dropdown-content {
-    display: block;
-    position: absolute;
+    display: none;
+    position: static;
     background-color: lightpink;
     color: black;
     min-width: 160px;
