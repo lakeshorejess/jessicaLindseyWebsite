@@ -51,7 +51,7 @@ body {
     margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover, .dropbtn {
+.navbar a:hover, .dropdown:hover, .dropdown a:visited, .dropbtn {
     background-color: white;
     color: black
 }
@@ -73,10 +73,6 @@ body {
     text-decoration: none;
     display: block;
     text-align: left;
-}
-
-.dropdown-content a:hover {
-    background-color: #ddd;
 }
 
 .dropdown:hover .dropdown-content {
@@ -108,5 +104,5 @@ a:hover {
 }
 
 a:link, a:visited {
-    color: #cd5b45;
+   color: #cd5b45;
 }
